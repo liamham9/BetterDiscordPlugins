@@ -3,7 +3,7 @@
  * @version 1.0.29
  * @description Allows you to locally assign badges to users through the user context menu.
  * @author QWERT
- * @source https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/AssignBadges
+ * @source https://github.com/liamham9/BetterDiscordPlugins/tree/main/AssignBadges
  * @updateUrl https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js
  */
 /*@cc_on
